@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Turtle Rock",
+        "category": "Rivers",
+        "city": "Twentynine Palms",
+        "state": "California",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "Located in Joshua Tree National Park, Turtle Rock is a stunning geological formation that stands out in the vast desert landscape. It's a popular spot for hikers and climbers, offering panoramic views of the surrounding area. The rock's unique shape and the serene environment make it a must-visit destination for nature enthusiasts.",
+        "imageName": "turtlerock"
+    },
+    {
+        "name": "Silver Salmon Creek",
+        "category": "Lakes",
+        "city": "Port Alsworth",
+        "state": "Alaska",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "Silver Salmon Creek, located within Lake Clark National Park and Preserve, is a haven for wildlife and a prime spot for fishing. The area is known for its picturesque surroundings, including pristine waters and lush greenery. Visitors often come to observe bears fishing for salmon, making it an ideal location for nature photography.",
+        "imageName": "silversalmoncreek"
+    },
+    {
+        "name": "Chilkoot Trail",
+        "category": "Mountains",
+        "city": "Skagway",
+        "state": "Alaska",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Klondike Gold Rush National Historical Park",
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "description": "Chilkoot Trail is a historic route that was once a major passage during the Klondike Gold Rush. Located in the Klondike Gold Rush National Historical Park, this trail offers a challenging hike through stunning mountainous terrain. Along the way, hikers can explore remnants of the gold rush era, making it a journey through both natural beauty and history.",
+        "imageName": "chilkoottrail"
+    },
+    {
+        "name": "St. Mary Lake",
+        "category": "Lakes",
+        "city": "Browning",
+        "state": "Montana",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "description": "St. Mary Lake is the second-largest lake in Glacier National Park and is renowned for its breathtaking scenery. The lake's crystal-clear waters reflect the surrounding mountains, creating a picture-perfect view that draws visitors from all over the world. It's a popular spot for boating, fishing, and photography.",
+        "imageName": "stmarylake"
+    },
+    {
+        "name": "Twin Lake",
+        "category": "Lakes",
+        "city": "Twin Lakes",
+        "state": "Alaska",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "Nestled within Lake Clark National Park and Preserve, Twin Lake is a peaceful and remote destination known for its pristine waters and scenic surroundings. It's a perfect spot for those looking to escape the hustle and bustle and immerse themselves in nature. The lake is also a great location for fishing and kayaking.",
+        "imageName": "twinlake"
+    },
+    {
+        "name": "Lake McDonald",
+        "category": "Mountains",
+        "city": "West Glacier",
+        "state": "Montana",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "description": "Lake McDonald is the largest lake in Glacier National Park, known for its striking beauty and vibrant colors. The lake's calm, reflective waters offer a stunning contrast to the rugged mountain backdrop. It's a popular destination for boating, fishing, and simply enjoying the serene environment.",
+        "imageName": "lakemcdonald"
+    },
+    {
+        "name": "Charley Rivers",
+        "category": "Rivers",
+        "city": "Eaking",
+        "state": "Alaska",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Charley Rivers National Preserve",
+        "coordinates": {
+            "longitude": -143.122586,
+            "latitude": 65.350021
+        },
+        "description": "Charley Rivers, located in the remote Charley Rivers National Preserve, is a wild and untamed waterway that flows through some of Alaska's most rugged and pristine wilderness. The river is a prime destination for adventurous canoeists and kayakers looking to explore the untouched natural beauty of the Alaskan interior.",
+        "imageName": "charleyrivers"
+    },
+    {
+        "name": "Icy Bay",
+        "category": "Mountains",
+        "city": "Icy Bay",
+        "state": "Alaska",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Wrangell-St. Elias National Park and Preserve",
+        "coordinates": {
+            "longitude": -141.518167,
+            "latitude": 60.089917
+        },
+        "description": "Icy Bay, situated within Wrangell-St. Elias National Park and Preserve, is a stunning coastal inlet surrounded by glaciers and towering mountains. The bay is known for its dramatic icebergs and breathtaking scenery, making it a popular destination for wildlife viewing and photography.",
+        "imageName": "icybay"
+    },
+    {
+        "name": "Rainbow Lake",
+        "category": "Lakes",
+        "city": "Willow",
+        "state": "Alaska",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Denali National Park",
+        "coordinates": {
+            "longitude": -149.643395,
+            "latitude": 62.337364
+        },
+        "description": "Rainbow Lake is a hidden gem located within Denali National Park. Known for its vibrant colors and tranquil surroundings, the lake offers a peaceful retreat for visitors looking to connect with nature. It's an ideal spot for fishing, bird watching, and enjoying the serenity of the Alaskan wilderness.",
+        "imageName": "rainbowlake"
+    },
+    {
+        "name": "Bear Lake",
+        "category": "Lakes",
+        "city": "Estes Park",
+        "state": "Colorado",
+        "id": 1010,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Rocky Mountain National Park",
+        "coordinates": {
+            "longitude": -105.651997,
+            "latitude": 40.313439
+        },
+        "description": "Bear Lake is a popular destination in Rocky Mountain National Park, offering easy access to stunning mountain scenery. The lake is surrounded by towering peaks and dense forests, providing a picturesque setting for hiking, photography, and wildlife viewing. It's a must-see for anyone visiting the park.",
+        "imageName": "bearlake"
+    }
+]
